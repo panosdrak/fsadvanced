@@ -7,6 +7,12 @@ body {
   font-size: 14px;
 }
 
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+
 /* Applies to all <h1>...</h1> elements. */
 h1 {
   font-size: 35px;
